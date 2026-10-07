@@ -1,0 +1,7 @@
+{
+  "independent_python_calculation": "All three cases and both financing structures agree",
+  "source_spot_checks": "FY2025 cash flow and capital spending match annual report PDF page 43",
+  "scenario_dependency_test": "Late-period changes preserve earlier years; entry price ceiling solves the hurdle",
+  "saved_default": "Base case, 6.0x entry",
+  "formula_error_cells": 0
+}
